@@ -1,0 +1,70 @@
+agentName	知产在线（北京）科技有限公司
+appGtGjdq	
+appGtType	
+appId	
+cardId	
+cardName	
+clearData	null
+countryName	
+fileIsEn	
+fileSyContent	
+fileSyName	
+fileWtId	488a81a06e1c51e2016e24b482d23aca;488a81a06e1c51e2016e24b544ea3b08;488a81a06e1c51e2016e24b5fa6f3b50;488a81a06e1c51e2016e24b637d93b6d
+fileWtName	委托书.jpg;委托书.jpg;委托书.jpg;委托书.jpg
+fileYxId	
+fileYxName	
+fileZtId	488a81a06e1c51e2016e24b6d3ea3b80
+fileZtName	主体.pdf
+goodid	800A9F6DE1804537AB152D04E890F629≈0C2943AA97CD426F8E5368621DF8A4B2≈
+gtFileName	
+hashData	null
+ifslck	
+imageId	488a81a06e1c51e2016e24b7cbbc3bf1
+isHbImage	no
+isPortrait	0
+loginName	zczx365
+qrid	
+regionalIdName	山东省济宁市任城区
+showFile	1
+signCert	MIIDhDCCAu2gAwIBAgIIIBkCIgAVCAMwDQYJKoZIhvcNAQEFBQAwgaAxDTALBgNVBAYeBE4tVv0xDTALBgNVBAgeBFMXTqwxDTALBgNVBAceBFMXTqwxIzAhBgNVBAoeGlMXTqxeAol/V85TOk4Jkcxss04cje9Ra1P3MSUwIwYDVQQLHhxW/Vu2XeVVRohMZT97oXQGYDtcQABDAEFOLV/DMSUwIwYDVQQDHhxW/Vu2XeVVRohMZT97oXQGYDtcQABDAEFOLV/DMB4XDTE5MDIyMjAyNTYwMloXDTI0MDIyMjAyNTYwMlowge0xCzAJBgNVBAYTAkNOMQ8wDQYDVQQIDAbljJfkuqwxDzANBgNVBAcMBuWMl+S6rDEjMCEGA1UECgwa5Zu95a625bel5ZWG5oC75bGAQ0HkuK3lv4MxOjA4BgNVBAsMMeWMl+S6rOW4gua1t+a3gOWMuua1t+a3gOWNl+i3r+eUsjIx5Y+3NuWxgjYwNjblj7cxEDAOBgNVBAMMB3pjengzNjUxFDASBgNVBAMMCzE1MzIxNzIwMjI4MTMwMQYDVQQDDCrnn6XkuqflnKjnur/vvIjljJfkuqzvvInnp5HmioDmnInpmZDlhazlj7gwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAM7GHr3fEtwpPjTcO5brw4+lnNBJIzQx0+p6TCLEABVdbB2HXCapOSjXcKp7No0rl6Fa0telETYjZ6S7OndP54cFCcvSlodzYJjVMa//cZCNPFmJGYPgdnSs4lN/Rilb0CPeoRJN5jDCPRY+wmH+Q9lc4W391XCoCyeJdTE6FJ7tAgMBAAGjeDB2MB0GA1UdDgQWBBQWSNiCpy3CKWvXoCji1zl3UlKdoTAfBgNVHSMEGDAWgBSN0aOs2h/snKACqkJ5Zhr+4xL4zTARBgUqVhUBAQQIMTAwMjQ4MjMwFAYFKlYVAQIEC3NhaWMuZ292LmNuMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOBgQBvKiQ0ftnQUmzricqvw6viahTnMMJPgBNsCHB1p9s1av1+Mbt5CWNlsivAJq3i+higtV1pJeb8IYtQqaAYfAobbOhPOJ516x4hzfcg1F5UjKNXM3op8mtdYZWYRbGKKHLWl+rzNFbedDDUzwCVwnTZJmYsu92Jg30OF7HQYIf7XA==
+signData	null
+sqgbName	中国大陆
+sqTypeName	法人或其它组织
+strAddr	
+strEAddr	
+strEName	
+strName	
+unisid	
+username	zczx365
+yxp.isLoadFile	2
+yxp.priorityAppDate	
+yxp.priorityBaseCrty	
+yxp.priorityNum	
+yxp.priorityType 	0
+zcp.agentFilenum	
+zcp.agentId	00094823
+zcp.agentPerson 	李春华
+zcp.appAgentUnion	2019-11-1 10:02:22
+zcp.appCnAddr	山东省济宁市任城区南张街道济安桥路与金宇路交汇南50米路西盛大预制件厂内
+zcp.appCnName	济宁森焱广告装饰工程有限公司
+zcp.appContactFax	
+zcp.appContactPerson	李春华
+zcp.appContactTel	010-62279925
+zcp.appContactZip	100080
+zcp.appCrtyId	1000
+zcp.appEnAddr	
+zcp.appEnName	
+zcp.appGjdq	100011000000000001
+zcp.appRegionalismId 	370811
+zcp.appTypeId	100012000000000001
+zcp.certCode	91370811MA3QGPQ74D
+zcp.colourSign	0
+zcp.ifShareTm	0
+zcp.ifSolidTm	0
+zcp.intCls	1
+zcp.isDlbz	0
+zcp.isJbjcnl	0
+zcp.isLoadYx	0
+zcp.tmDesignDeclare	shagn标说明
+zcp.tmFormType	
+zcp.tmType	P
